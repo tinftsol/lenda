@@ -27,13 +27,7 @@ Lenda is an AI-driven DeFi agent designed to optimize stablecoin lending by anal
 
 3. **Set Up Environment Variables**:
 
-   Create a `.env` file in the root directory and add your configuration:
-
-   ```env
-   OPENAI_API_KEY=your_openai_api_key
-   WALLET_PUBLIC_KEY=your_wallet_public_key
-   WALLET_PRIVATE_KEY=your_wallet_private_key
-   ```
+  update `character.ts` and put there missing params
 
 4. **Run the Application**:
 
